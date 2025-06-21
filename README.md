@@ -1,2 +1,2 @@
 # Python-Casino
-Casino games
+Casino games made in Python by an absolute noob.
